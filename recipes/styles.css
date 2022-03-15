@@ -1,0 +1,21 @@
+.scaledImage {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: white;
+    background-color: red;
+}
+
+h2 {
+    font-family: "Ubuntu Mono", serif;
+}
+li:nth-child(odd){
+    background-color: blue;
+    color: white;
+}
+li:nth-child(even){
+    background-color: green;
+    color: white;
+}
